@@ -3,6 +3,6 @@
 
 int main()
 {
-	char *str = "Hell Universe";
+	char *str = "Hello Cloudensembler";
 	printf("%s\n",str);
 }
