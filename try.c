@@ -3,6 +3,6 @@
 
 int main()
 {
-	char *str = "Hello Customer"
+	char *str = "Hi Customer";
 	printf("%s\n",str);
 }
