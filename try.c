@@ -3,6 +3,6 @@
 
 int main()
 {
-	char *str = "Hello Cloudensembler";
+	char *str = "Hello Anup";
 	printf("%s\n",str);
 }
